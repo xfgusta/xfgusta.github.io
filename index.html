@@ -18,7 +18,7 @@
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display&family=Red+Hat+Mono&family=Red+Hat+Text&display=swap');
       body {
-        background-color: #EFEFEF;
+        background-color: #efefef;
         color: #151515;
       }
       header {
@@ -37,7 +37,7 @@
         text-decoration: none;
       }
       a:link {
-        color: #06c;
+        color: #0066cc;
       }
       a:visited {
         color: #6753ac;
@@ -59,6 +59,22 @@
         padding-right: 1rem;
         margin: auto;
         margin-bottom: 2rem;
+      }
+      @media (prefers-color-scheme: dark) {
+        body {
+          background-color: #202225;
+          color: #fdfdfd;
+        }
+        a:link {
+          color: #3399ff;
+        }
+        a:visited {
+          color: #9a86df;
+        }
+        a:active, a:hover, a:focus {
+          color: #3373b3;
+          text-decoration: none;
+        }
       }
     </style>
   </head>
