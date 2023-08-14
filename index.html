@@ -18,80 +18,63 @@
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display&family=Red+Hat+Mono&family=Red+Hat+Text&display=swap');
       body {
-        background-color: #efefef;
-        color: #151515;
-      }
-      header {
-        margin-top: 2rem;
+        font-family: 'Red Hat Text', sans-serif;
+        margin: auto;
+        padding: 20px;
+        max-width: 720px;
+        text-align: left;
+        background-color: #fbfafd;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+        line-height: 1.5;
       }
       h1, h2, h3 {
         font-family: 'Red Hat Display', sans-serif;
       }
-      p {
-        font-family: 'Red Hat Text', sans-serif;
-      }
-      code {
-        font-family: 'Red Hat Mono', monospace;
-      }
       a {
-        text-decoration: none;
-      }
-      a:link {
-        color: #0066cc;
+        color: #3273dc;
       }
       a:visited {
-        color: #6753ac;
+        color: #8b6fcb;
       }
-      a:active, a:hover, a:focus {
-        color: #004080;
-        text-decoration: none;
+      ul {
+        list-style-type: square;
+      }
+      code {
+        text-align: center;
+        background-color: #f2f2f2;
+        font-family: 'Red Hat Mono', monospace;
+      }
+      pre code {
+        color: #222;
+        display: block;
+        padding: 20px;
+        white-space: pre-wrap;
+        font-size: 14px;
+      }
+      .header {
+        text-align: center;
       }
       .avatar {
         max-width: 100px;
         max-height: 100px;
         overflow: hidden;
-        border-radius: 100%;
-        display: block;
-      }
-      .content {
-        max-width: 50rem;
-        padding-left: 1rem;
-        padding-right: 1rem;
-        margin: auto;
-        margin-bottom: 2rem;
-      }
-      @media (prefers-color-scheme: dark) {
-        body {
-          background-color: #202225;
-          color: #fdfdfd;
-        }
-        a:link {
-          color: #3399ff;
-        }
-        a:visited {
-          color: #9a86df;
-        }
-        a:active, a:hover, a:focus {
-          color: #3373b3;
-          text-decoration: none;
-        }
+        border-radius: 50%;
       }
     </style>
   </head>
   <body>
-    <header>
-      <center>
-        <img src="https://avatars.githubusercontent.com/u/66979446" alt="Profile picture" class="avatar" loading="lazy">
+    <main>
+      <div class="header">
+        <img src="https://avatars.githubusercontent.com/u/66979446" class="avatar" alt="Profile picture">
         <h1>About Me</h1>
-      </center>
-    </header>
-    <main class="content">
+      </div>
       <p>My name is Gustavo Costa. I love contributing to open-source projects and am very passionate about GNU/Linux. I am always looking for new things to learn about.</p>
       <p>I am a Fedora Project contributor. I contribute mostly to <a href="https://translate.fedoraproject.org/user/xfgusta">translation</a>, <a href="https://bodhi.fedoraproject.org/users/xfgusta">package testing</a> and <a href="https://src.fedoraproject.org/user/xfgusta">package maintenance</a>. You can learn more about my contributions to the project <a href="https://fedoraproject.org/wiki/User:Xfgusta">here</a>.</p>
       <p>I usually write code in Python and C these days. But I program in Perl and Shell Script too. Sometimes I also write some things for <a href="https://xfgusta.medium.com">my blog</a>, but currently, it is only in Portuguese.</p>
-      <h2>My Projects</h2>
+      <h2>Projects</h2>
       <p>Here are some cool projects I have written:</p>
-      <ul style="list-style-type: square;">
+      <ul>
         <li>
           <p><a href="https://github.com/xfgusta/cexpl">cexpl</a> is a command-line tool to interact with <a href="https://godbolt.org">Compiler Explorer</a></p>
         </li>
@@ -116,10 +99,9 @@
       <p>You can also reach me by email at <a href="mailto:xfgusta@gmail.com">xfgusta@gmail.com</a>.</p>
       <h3>GPG</h3>
       <p>My GPG public key block can be found <a href="https://github.com/xfgusta.gpg">here</a> and its fingerprint is:<p>
-      <center>
+      <pre tabindex="0">
         <code>3DF8 6806 78F5 347D 9113 &nbsp;EAF7 0A74 849D 4144 3F86</code>
-      </center>
-      <p>If you have any privacy concerns, please do not hesitate to send your messages to me encrypted.</p>
+      </pre>
     </main>
   </body>
 </html>
