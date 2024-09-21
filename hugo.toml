@@ -2,6 +2,7 @@ baseURL = "https://xfgusta.github.io/"
 languageCode = "pt-BR"
 defaultContentLanguage = "pt-br"
 theme = "styx"
+publishDir = "docs"
 
 [params]
 siteTitle = "xfgusta.github.io"
