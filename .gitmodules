@@ -1,0 +1,3 @@
+[submodule "themes/styx"]
+	path = themes/styx
+	url = https://github.com/xfgusta/styx

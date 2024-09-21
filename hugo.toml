@@ -1,0 +1,47 @@
+baseURL = "https://xfgusta.github.io/"
+languageCode = "pt-BR"
+defaultContentLanguage = "pt-br"
+theme = "styx"
+
+[params]
+siteTitle = "xfgusta.github.io"
+author = "Gustavo Costa"
+nickname = "xfgusta"
+avatar = "https://avatars.githubusercontent.com/u/66979446"
+
+[[params.social]]
+id = "github"
+title = "GitHub"
+url = "https://github.com/xfgusta"
+
+[[params.social]]
+id = "lastfm"
+title = "Last.fm"
+url = "https://www.last.fm/user/xfgusta"
+
+[[params.social]]
+id = "x-twitter"
+title = "X (Twitter)"
+url = "https://x.com/xfgusta"
+
+[[params.social]]
+id = "email"
+title = "Email"
+url = "mailto:xfgusta@gmail.com"
+
+[languages]
+[languages.pt-br]
+languageName = "Português"
+title = "Blog do Gustavo"
+weight = 1
+
+[languages.pt-br.params]
+pronouns = "ele/dele"
+
+[languages.en]
+languageName = "English"
+title = "Gustavo's blog"
+weight = 2
+
+[languages.en.params]
+pronouns = "he/him"
