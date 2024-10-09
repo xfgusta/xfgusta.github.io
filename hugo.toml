@@ -22,7 +22,7 @@ url = "https://www.last.fm/user/xfgusta"
 
 [[params.social]]
 id = "x-twitter"
-title = "X (Twitter)"
+title = "X"
 url = "https://x.com/xfgusta"
 
 [[params.social]]
