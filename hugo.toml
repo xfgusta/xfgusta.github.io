@@ -2,12 +2,14 @@ baseURL = "https://xfgusta.github.io/"
 languageCode = "pt-BR"
 defaultContentLanguage = "pt-br"
 theme = "styx"
+title = "Blog do Gustavo"
 publishDir = "docs"
 
 [params]
 siteTitle = "xfgusta.github.io"
 author = "Gustavo Costa"
 nickname = "xfgusta"
+pronouns = "ele/dele"
 avatar = "https://avatars.githubusercontent.com/u/66979446"
 
 [[params.social]]
@@ -29,20 +31,3 @@ url = "https://x.com/xfgusta"
 id = "email"
 title = "Email"
 url = "mailto:xfgusta@gmail.com"
-
-[languages]
-[languages.pt-br]
-languageName = "Português"
-title = "Blog do Gustavo"
-weight = 1
-
-[languages.pt-br.params]
-pronouns = "ele/dele"
-
-[languages.en]
-languageName = "English"
-title = "Gustavo's blog"
-weight = 2
-
-[languages.en.params]
-pronouns = "he/him"
