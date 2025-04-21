@@ -1,5 +1,5 @@
 +++
-title = "Lua cheia"
+title = "Lua Cheia"
 date = 2024-09-21T17:11:45-03:00
 description = ""
 tags = ["poesia"]

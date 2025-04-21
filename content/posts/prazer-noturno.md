@@ -1,5 +1,5 @@
 +++
-title = "Prazer noturno"
+title = "Prazer Noturno"
 date = 2025-01-12T21:15:24-03:00
 description = ""
 tags = ["poesia"]
