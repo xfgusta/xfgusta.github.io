@@ -3,10 +3,10 @@ languageCode = "pt-BR"
 defaultContentLanguage = "pt-br"
 theme = "styx"
 title = "Blog do Gustavo"
-publishDir = "docs"
 
 [params]
-siteTitle = "xfgusta.github.io"
+showSiteTitle = false
+#siteTitle = "xfgusta.github.io"
 author = "Gustavo Costa"
 nickname = "xfgusta"
 pronouns = "ele/dele"
