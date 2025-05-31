@@ -5,6 +5,7 @@ theme = "styx"
 title = "Blog do xfgusta"
 
 [params]
+siteTitle = "xfgusta.github.io"
 author = "Gustavo Costa"
 nickname = "xfgusta"
 pronouns = "ele/dele"
