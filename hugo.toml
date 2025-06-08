@@ -5,20 +5,33 @@ theme = "styx"
 title = "Blog do xfgusta"
 
 [params]
-siteTitle = "xfgusta.github.io"
-author = "Gustavo Costa"
-nickname = "xfgusta"
-pronouns = "ele/dele"
-avatar = "https://avatars.githubusercontent.com/u/66979446"
+  siteTitle = "xfgusta.github.io"
+  hideMenu = true
+  showTagsOnHome = true
+  recentPostsCount = 1
+  author = "Gustavo Costa"
+  nickname = "xfgusta"
+  pronouns = "ele/dele"
+  description = "Escrevo sobre computação, xadrez, poesias e livros. Compartilho aqui meus hobbies e projetos."
+  avatar = "/avatar.jpg"
+  [[params.links]]
+    name = "GitHub"
+    url = "https://github.com/xfgusta"
+  [[params.links]]
+    name = "Fedora"
+    url = "https://fedoraproject.org/wiki/User:Xfgusta"
+  [[params.links]]
+    name = "Email"
+    url = "mailto:xfgusta@gmail.com"
 
-[[params.social]]
-title = "GitHub"
-url = "https://github.com/xfgusta"
-
-[[params.social]]
-title = "X"
-url = "https://x.com/xfgusta"
-
-[[params.social]]
-title = "Email"
-url = "mailto:xfgusta@gmail.com"
+[languages]
+  [languages.pt-br]
+    languageName = "Português"
+    weight = 1
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    title = "xfgusta's Blog"
+    [languages.en.params]
+      pronouns = "he/him"
+      description = "I write about computing, chess, poetry, and books. I share hobbies and projects."
