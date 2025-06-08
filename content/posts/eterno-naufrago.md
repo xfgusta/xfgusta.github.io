@@ -6,7 +6,7 @@ tags = ["poesia"]
 draft = false
 +++
 
-Os dias me arrastam, sem cor e nem sabor\
+Os dias me arrastam, sem cor nem sabor\
 O peito aperta em dor, sem amor\
 Os olhos pesam, mas sem repousar\
 Sou náufrago eterno neste mar que é amar
