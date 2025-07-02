@@ -6,9 +6,9 @@ title = "Blog do xfgusta"
 
 [params]
   siteTitle = "xfgusta.github.io"
-  # hideMenu = true
-  # showTagsOnHome = true
-  # recentPostsCount = 1
+  hideMenu = true
+  showTagsOnHome = true
+  recentPostsCount = 1
   author = "Gustavo Costa"
   nickname = "xfgusta"
   pronouns = "ele/dele"
