@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fedora on Blog do xfgusta</title><link>https://xfgusta.github.io/tags/fedora/</link><description>Recent content in Fedora on Blog do xfgusta</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Mon, 30 Jun 2025 21:56:18 -0300</lastBuildDate><atom:link href="https://xfgusta.github.io/tags/fedora/index.xml" rel="self" type="application/rss+xml"/><item><title>Este Mês no Fedora (junho 2025)</title><link>https://xfgusta.github.io/posts/este-mes-no-fedora-2025-06/</link><pubDate>Mon, 30 Jun 2025 21:56:18 -0300</pubDate><guid>https://xfgusta.github.io/posts/este-mes-no-fedora-2025-06/</guid><description>&lt;h2 id="resultado-das-eleições">Resultado das Eleições&lt;/h2>
+&lt;p>Em 3 de junho, os &lt;a href="https://communityblog.fedoraproject.org/f42-elections-results/">resultados das eleições&lt;/a> no Projeto Fedora foram divulgados. Fiquei feliz, pois todos os meus candidatos favoritos foram eleitos. Aqui estão os resultados:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Council&lt;/strong>: Miro Hrončok e Aleksandra Fedorova&lt;/li>
+&lt;li>&lt;strong>FESCo&lt;/strong>: Neal Gompa, Stephen Gallagher, Fabio Valentini e Michel Lind&lt;/li>
+&lt;li>&lt;strong>Mindshare Committee&lt;/strong>: Emma Kidney, Sumantro Mukherjee, Akashdeep Dhar e Luis Bazan&lt;/li>
+&lt;li>&lt;strong>EPEL Steering Committee&lt;/strong>: Davide Cavalca, Robbie Callicotte e Neal Gompa&lt;/li>
+&lt;/ul>
+&lt;h2 id="manutenção-de-pacotes">Manutenção de Pacotes&lt;/h2>
+&lt;p>O &lt;a href="https://src.fedoraproject.org/rpms/bfs">bfs&lt;/a> e &lt;a href="https://src.fedoraproject.org/rpms/pdfmixtool">pdfmixtool&lt;/a> lançaram versões novas:&lt;/p></description></item></channel></rss>
