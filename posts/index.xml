@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blog do xfgusta</title><link>https://xfgusta.github.io/posts/</link><description>Recent content in Posts on Blog do xfgusta</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Thu, 31 Jul 2025 19:29:13 -0300</lastBuildDate><atom:link href="https://xfgusta.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Este Mês no Fedora (julho 2025)</title><link>https://xfgusta.github.io/posts/este-mes-no-fedora-2025-07/</link><pubDate>Thu, 31 Jul 2025 19:29:13 -0300</pubDate><guid>https://xfgusta.github.io/posts/este-mes-no-fedora-2025-07/</guid><description>&lt;h2 id="manutenção-de-pacotes">Manutenção de Pacotes&lt;/h2>
+&lt;p>O &lt;a href="https://src.fedoraproject.org/rpms/pdfmixtool">pdfmixtool&lt;/a> lançou uma versão nova corrigindo a tradução do aplicativo. Também atualizei o pacote no Fedora 42 da versão 1.1.1 para a 1.2.1.&lt;/p>
+&lt;h3 id="atualizações">Atualizações&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Pacote&lt;/th>
+ &lt;th>Versão&lt;/th>
+ &lt;th>Lançamento&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>pdfmixtool&lt;/td>
+ &lt;td>1.2.1&lt;/td>
+ &lt;td>&lt;a href="https://bodhi.fedoraproject.org/updates/FEDORA-2025-9804fb857c">1.fc43&lt;/a>, &lt;a href="https://bodhi.fedoraproject.org/updates/FEDORA-2025-c8c8cd206f">1.fc42&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Insisto Segurar</title><link>https://xfgusta.github.io/posts/insisto-segurar/</link><pubDate>Thu, 24 Jul 2025 23:09:43 -0300</pubDate><guid>https://xfgusta.github.io/posts/insisto-segurar/</guid><description>&lt;p>Nessa solidão mansa,&lt;br>
+Finco minha esperança&lt;br>
+De um dia me encontrar.&lt;br>
+Nessa rocha solta,&lt;br>
+Contra toda mudança,&lt;br>
+Insisto segurar.&lt;/p></description></item><item><title>Este Mês no Fedora (junho 2025)</title><link>https://xfgusta.github.io/posts/este-mes-no-fedora-2025-06/</link><pubDate>Mon, 30 Jun 2025 21:56:18 -0300</pubDate><guid>https://xfgusta.github.io/posts/este-mes-no-fedora-2025-06/</guid><description>&lt;h2 id="resultado-das-eleições">Resultado das Eleições&lt;/h2>
+&lt;p>Em 3 de junho, os &lt;a href="https://communityblog.fedoraproject.org/f42-elections-results/">resultados das eleições&lt;/a> no Projeto Fedora foram divulgados. Fiquei feliz, pois todos os meus candidatos favoritos foram eleitos. Aqui estão os resultados:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Council&lt;/strong>: Miro Hrončok e Aleksandra Fedorova&lt;/li>
+&lt;li>&lt;strong>FESCo&lt;/strong>: Neal Gompa, Stephen Gallagher, Fabio Valentini e Michel Lind&lt;/li>
+&lt;li>&lt;strong>Mindshare Committee&lt;/strong>: Emma Kidney, Sumantro Mukherjee, Akashdeep Dhar e Luis Bazan&lt;/li>
+&lt;li>&lt;strong>EPEL Steering Committee&lt;/strong>: Davide Cavalca, Robbie Callicotte e Neal Gompa&lt;/li>
+&lt;/ul>
+&lt;h2 id="manutenção-de-pacotes">Manutenção de Pacotes&lt;/h2>
+&lt;p>O &lt;a href="https://src.fedoraproject.org/rpms/bfs">bfs&lt;/a> e &lt;a href="https://src.fedoraproject.org/rpms/pdfmixtool">pdfmixtool&lt;/a> lançaram versões novas:&lt;/p></description></item><item><title>Eterno Náufrago</title><link>https://xfgusta.github.io/posts/eterno-naufrago/</link><pubDate>Sat, 22 Feb 2025 13:06:56 -0300</pubDate><guid>https://xfgusta.github.io/posts/eterno-naufrago/</guid><description>&lt;p>Os dias me arrastam, sem cor nem sabor&lt;br>
+O peito aperta em dor, sem amor&lt;br>
+Os olhos pesam, mas sem repousar&lt;br>
+Sou náufrago eterno neste mar que é amar&lt;/p>
+&lt;p>Restou de mim apenas o desengano&lt;br>
+As lágrimas se perdem no vasto oceano&lt;br>
+Entre as ondas do vazio, o coração se esfria&lt;br>
+A saudade é um farol que já não me ilumina&lt;/p></description></item><item><title>Prazer Noturno</title><link>https://xfgusta.github.io/posts/prazer-noturno/</link><pubDate>Sun, 12 Jan 2025 21:15:24 -0300</pubDate><guid>https://xfgusta.github.io/posts/prazer-noturno/</guid><description>&lt;p>Na noite que te encontro, te sinto em mim&lt;br>
+Meu coração dispara num instante sem fim&lt;br>
+Respiração pesada, impossível conter&lt;br>
+Meu corpo se desperta com o desejo de te ter&lt;/p>
+&lt;p>Sob o silêncio das estrelas até o amanhecer&lt;br>
+Afogamos neste mar inundados de prazer&lt;br>
+Sentindo teu corpo quente deslizar com o meu&lt;br>
+Sem pressa alguma, pois o tempo se perdeu&lt;/p>
+&lt;p>Suspiro final, pressão nos ouvidos&lt;br>
+Nossos corpos exaustos em sussurros perdidos&lt;br>
+E ao partir, teu calor ainda vem me aquecer&lt;br>
+Na lembrança ardente que me faz enlouquecer&lt;/p></description></item><item><title>Condenado a Amar</title><link>https://xfgusta.github.io/posts/condenado-a-amar/</link><pubDate>Wed, 25 Sep 2024 21:03:41 -0300</pubDate><guid>https://xfgusta.github.io/posts/condenado-a-amar/</guid><description>&lt;p>Sem pressa pra ti escrevo&lt;br>
+Com aquele ardor gostoso no peito&lt;br>
+Movido por um só desejo&lt;br>
+De contigo, voar além do devaneio&lt;/p>
+&lt;p>Desde a manhã ao entardecer&lt;br>
+Nunca paro de pensar em você&lt;br>
+Presumo nunca te esquecer&lt;br>
+Meu coração sempre volta a você&lt;/p>
+&lt;p>Teus belos olhos, cheios de brilho&lt;br>
+Teu corpo, gostoso, distinto&lt;br>
+Teu jeito de ser, tão singular&lt;br>
+Foi por você que condenei-me amar&lt;/p>
+&lt;p>Como posso tornar isto real?&lt;br>
+Sem medo, sem ideal&lt;br>
+Transformar em verdade o que sinto&lt;br>
+Um amor sempre tão longínquo&lt;/p></description></item><item><title>Lua Cheia</title><link>https://xfgusta.github.io/posts/lua-cheia/</link><pubDate>Sat, 21 Sep 2024 17:11:45 -0300</pubDate><guid>https://xfgusta.github.io/posts/lua-cheia/</guid><description>&lt;p>Era só nós, no gramado, deitados&lt;br>
+Expostos ao luar amarelado&lt;br>
+Falando o que vinha do imaginário&lt;br>
+Sem medo e de olhos fechados&lt;/p>
+&lt;p>Ao longe, as estrelas sem pressa cintilavam&lt;br>
+Nossos corpos entrelaçados e imóveis&lt;br>
+Os ventos as nossas palavras levavam&lt;br>
+Como sussurros inalcançáveis&lt;/p>
+&lt;p>O céu, nesta noite, testemunhava a cena&lt;br>
+Um refúgio para nossas almas serenas&lt;br>
+Um dueto de amor e sinceridade reinava&lt;br>
+Um sentimento que nem o tempo apagava&lt;/p></description></item></channel></rss>

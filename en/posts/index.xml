@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on xfgusta's Blog</title><link>https://xfgusta.github.io/en/posts/</link><description>Recent content in Posts on xfgusta's Blog</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 31 Jul 2025 19:29:13 -0300</lastBuildDate><atom:link href="https://xfgusta.github.io/en/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>This Month in Fedora (July 2025)</title><link>https://xfgusta.github.io/en/posts/this-month-in-fedora-2025-07/</link><pubDate>Thu, 31 Jul 2025 19:29:13 -0300</pubDate><guid>https://xfgusta.github.io/en/posts/this-month-in-fedora-2025-07/</guid><description>&lt;h2 id="package-maintenance">Package Maintenance&lt;/h2>
+&lt;p>The &lt;a href="https://src.fedoraproject.org/rpms/pdfmixtool">pdfmixtool&lt;/a> released a new version fixing the application&amp;rsquo;s translation. I also updated the Fedora 42 package from version 1.1.1 to 1.2.1.&lt;/p>
+&lt;h3 id="updates">Updates&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Package&lt;/th>
+ &lt;th>Version&lt;/th>
+ &lt;th>Release&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>pdfmixtool&lt;/td>
+ &lt;td>1.2.1&lt;/td>
+ &lt;td>&lt;a href="https://bodhi.fedoraproject.org/updates/FEDORA-2025-9804fb857c">1.fc43&lt;/a>, &lt;a href="https://bodhi.fedoraproject.org/updates/FEDORA-2025-c8c8cd206f">1.fc42&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>This Month in Fedora (June 2025)</title><link>https://xfgusta.github.io/en/posts/this-month-in-fedora-2025-06/</link><pubDate>Mon, 30 Jun 2025 21:56:18 -0300</pubDate><guid>https://xfgusta.github.io/en/posts/this-month-in-fedora-2025-06/</guid><description>&lt;h2 id="election-results">Election Results&lt;/h2>
+&lt;p>On June 3rd, the &lt;a href="https://communityblog.fedoraproject.org/f42-elections-results/">election results&lt;/a> for the Fedora Project were announced. I was happy to see that all of my favorite candidates were elected. Here are the results:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Council&lt;/strong>: Miro Hrončok and Aleksandra Fedorova&lt;/li>
+&lt;li>&lt;strong>FESCo&lt;/strong>: Neal Gompa, Stephen Gallagher, Fabio Valentini, and Michel Lind&lt;/li>
+&lt;li>&lt;strong>Mindshare Committee&lt;/strong>: Emma Kidney, Sumantro Mukherjee, Akashdeep Dhar, and Luis Bazan&lt;/li>
+&lt;li>&lt;strong>EPEL Steering Committee&lt;/strong>: Davide Cavalca, Robbie Callicotte, and Neal Gompa&lt;/li>
+&lt;/ul>
+&lt;h2 id="package-maintenance">Package Maintenance&lt;/h2>
+&lt;p>New versions of &lt;a href="https://src.fedoraproject.org/rpms/bfs">bfs&lt;/a> and &lt;a href="https://src.fedoraproject.org/rpms/pdfmixtool">pdfmixtool&lt;/a> were released:&lt;/p></description></item></channel></rss>
